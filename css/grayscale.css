@@ -553,10 +553,59 @@ body {
   margin: 0 10px 0 10px;
 }
 
-#references .sacem img {
-  padding-top: 16px;
+#references .sacem-logo {
+  margin-bottom: 14px;
 }
 
-#references .humancoders img {
-  padding-top: 6px;
+#references .leggett-logo {
+  margin-bottom: 14px;
+}
+
+#references .humancoders-logo {
+}
+
+
+.sacem-logo {
+  display: inline-block;
+  width: 148px;
+  height: 33px;
+  background: url('../img/references.png') no-repeat;
+  background-position: -148px -95px;
+}
+
+.sacem-logo:hover,
+.sacem-logo:focus,
+.sacem-logo:active {
+  background: url('../img/references.png') no-repeat;
+  background-position: 0 -95px;
+}
+
+.leggett-logo {
+  display: inline-block;
+  width: 216px;
+  height: 34px;
+  background: url('../img/references.png') no-repeat;
+  background-position: -216px -61px;
+}
+
+.leggett-logo:hover,
+.leggett-logo:focus,
+.leggett-logo:active {
+  background: url('../img/references.png') no-repeat;
+  background-position: 0 -61px;
+}
+
+.humancoders-logo {
+  display: inline-block;
+  width: 139px;
+  height: 61px;
+  background: url('../img/references.png') no-repeat;
+  background-position: -139px 0;
+}
+
+.humancoders-logo:hover,
+.humancoders-logo:focus,
+.humancoders-logo:active {
+  background: url('../img/references.png') no-repeat;
+  background-position: 0 0;
 }
