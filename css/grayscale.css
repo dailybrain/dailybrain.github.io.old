@@ -563,20 +563,23 @@ body {
 #references .humancoders-logo {
 }
 
+#references .kametventures-logo {
+  margin-bottom: 14px;
+}
 
 .sacem-logo {
   display: inline-block;
   width: 148px;
   height: 33px;
   background: url('../img/references.png') no-repeat;
-  background-position: -148px -95px;
+  background-position: -148px -144px;
 }
 
 .sacem-logo:hover,
 .sacem-logo:focus,
 .sacem-logo:active {
   background: url('../img/references.png') no-repeat;
-  background-position: 0 -95px;
+  background-position: 0 -144px;
 }
 
 .leggett-logo {
@@ -584,14 +587,14 @@ body {
   width: 216px;
   height: 34px;
   background: url('../img/references.png') no-repeat;
-  background-position: -216px -61px;
+  background-position: -216px -110px;
 }
 
 .leggett-logo:hover,
 .leggett-logo:focus,
 .leggett-logo:active {
   background: url('../img/references.png') no-repeat;
-  background-position: 0 -61px;
+  background-position: 0 -110px;
 }
 
 .humancoders-logo {
@@ -599,12 +602,27 @@ body {
   width: 139px;
   height: 61px;
   background: url('../img/references.png') no-repeat;
-  background-position: -139px 0;
+  background-position: -139px -49px;
 }
 
 .humancoders-logo:hover,
 .humancoders-logo:focus,
 .humancoders-logo:active {
+  background: url('../img/references.png') no-repeat;
+  background-position: 0 -49px;
+}
+
+.kametventures-logo {
+  display: inline-block;
+  width: 203px;
+  height: 49px;
+  background: url('../img/references.png') no-repeat;
+  background-position: -203px 0;
+}
+
+.kametventures-logo:hover,
+.kametventures-logo:focus,
+.kametventures-logo:active {
   background: url('../img/references.png') no-repeat;
   background-position: 0 0;
 }
