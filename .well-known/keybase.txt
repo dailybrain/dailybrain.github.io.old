@@ -1,68 +1,55 @@
 ==================================================================
-https://keybase.io/dailybrain
+https://keybase.io/vspiewak
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of http://dailybrain.fr
-  * I am dailybrain (https://keybase.io/dailybrain) on keybase.
-  * I have a public key with fingerprint 9FD2 C271 03BD E8A0 106F  5E76 1A58 CA0F 28BD C244
+  * I am an admin of https://dailybrain.fr
+  * I am vspiewak (https://keybase.io/vspiewak) on keybase.
+  * I have a public key ASCCfh7J2rY-IGE79frpIzj5e3usO1A59jP0CI0AUoCTbQo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "0101f1aed463da2c6ec1a1a9028eebf0bd29b268c109e479fa36345482c25cf5175d0a",
-            "fingerprint": "9fd2c27103bde8a0106f5e761a58ca0f28bdc244",
-            "host": "keybase.io",
-            "key_id": "1a58ca0f28bdc244",
-            "kid": "0101f1aed463da2c6ec1a1a9028eebf0bd29b268c109e479fa36345482c25cf5175d0a",
-            "uid": "27e6fad772014f41cfdcd0aca6cf3119",
-            "username": "dailybrain"
-        },
-        "service": {
-            "hostname": "dailybrain.fr",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "01017c820cc48a7950801dd1d4e036688f7cb09dd195591c8d6189b57b1c4f2f4e900a",
+      "host": "keybase.io",
+      "kid": "0120827e1ec9dab63e20613bf5fae92338f97b7bac3b5039f633f4088d005280936d0a",
+      "uid": "34afce691d1ccfbbf18a4e5580369c19",
+      "username": "vspiewak"
     },
-    "ctime": 1473809148,
-    "expire_in": 157680000,
-    "prev": "1f0333575bd1f007f5ad3c8e3f66ad5f4d1f9bc6c2d7058f5d3d0d18a7d41ff4",
-    "seqno": 4,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1506674980,
+      "hash": "7ac9ff9558a970833db52fc93135021257a1d66e6267dfe29e5d128d0d8bad571168104593f409107b19efca6022bb91c687eacf1500743bb77a7912f77ecd76",
+      "hash_meta": "5992d5723b6bf84b8fbcc5fdb0035e0d010601915bbbef090b1677fb6ff2387f",
+      "seqno": 1474875
+    },
+    "service": {
+      "hostname": "dailybrain.fr",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.31"
+  },
+  "ctime": 1506675248,
+  "expire_in": 504576000,
+  "prev": "20ab0e6d7e3c6ba9820c9144d5f6aec642dd268bee796354fd1bfb1eeebcbe1d",
+  "seqno": 9,
+  "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.56
-Comment: https://keybase.io/crypto
-
-yMIdAnicrVJbSBVBGD6mVgpiUEGQoW0SVKYze98TdjEqeomoICkPp9m5HDf17HF3
-PV4qogtqUqJYWhQneiqpNCKIHooyIcgiMUKhKIg8CRVY6kOU0qzUUz02LzPz/9/3
-/d98TH9WaiAzpXR34/tva3M+pAw8ulAT2DvS8vOQYNqkXggeEiro7EYrCXW9cIVF
-hKAAIIAMIkpkVSJIxCrFEEFkAFGn1GTAJKJhiqqOITCorBkMSaokK7IuYlHBTIGa
-QgASCgRmRSPUiTlW1OOyBiMcoEEgmYTqiE9RmUI1FSJFxwgwUTcJFmWZE8tt12dw
-cyZyaaFl8xq/hGft/QP/n33XzMqJGlUZIpomAigzGWJGMO9jpGImQWj4QJc6UVRF
-OZogq7LedJAVFY4UCLwetzD1o/Xf8hemkDmcHnNsz8Z2JW+Ve14s6DO9+pgPraVm
-+LdI2LSihCfJCXHquJYdFYKQI7Fn+apQ1iQdGFDWCwRaF7McGrZ8hKKpOuDLH0Pj
-fm4MSJKkaIpJ+BFoTEFEwjqVmKoiojCZlw0Tq1gkGlB0phCJAAJ1pBEZMubn7NLq
-qC0EZW4TRbika0WiyKtxqHCk72FZWiAlMzA3fY7/wwKZGQv+/LuXHfMDbR09RtPE
-i7Nvs762nikW4Ch62FxSdErOvisFl+5sehVwk0vObVx4p6FkqrXy6ubD74q+l6UF
-s0dqHpxoZ5O1Y8U7En21A6Gp56ENZ9OnG0LtlxpfJ8WZ0q7L44PJ9k/hdT0tz8ay
-yzcl+vdn5DXHre1P1kzcNg40Lb9YlVgJxhLXW25lHvDi/b3nSj+HftT15abu6e8d
-ze3cds8JZdDOgw1K/uXqLSn2qi83rzxu2xfpnd46r3143lDoufUmt6306eRQ3rP1
-scW9R8GxnOS1W+L5kUhJ1+oVLferBwoHT5/Mv/H2zsTo0uT4sjfu8aKPCdlTZ2Jh
-4elw3qIBr7t71+tfvfFJCg==
-=RWtg
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggn4eydq2PiBhO/X66SM4+Xt7rDtQOfYz9AiNAFKAk20Kp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxN2M4MjBjYzQ4YTc5NTA4MDFkZDFkNGUwMzY2ODhmN2NiMDlkZDE5NTU5MWM4ZDYxODliNTdiMWM0ZjJmNGU5MDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODI3ZTFlYzlkYWI2M2UyMDYxM2JmNWZhZTkyMzM4Zjk3YjdiYWMzYjUwMzlmNjMzZjQwODhkMDA1MjgwOTM2ZDBhIiwidWlkIjoiMzRhZmNlNjkxZDFjY2ZiYmYxOGE0ZTU1ODAzNjljMTkiLCJ1c2VybmFtZSI6InZzcGlld2FrIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA2Njc0OTgwLCJoYXNoIjoiN2FjOWZmOTU1OGE5NzA4MzNkYjUyZmM5MzEzNTAyMTI1N2ExZDY2ZTYyNjdkZmUyOWU1ZDEyOGQwZDhiYWQ1NzExNjgxMDQ1OTNmNDA5MTA3YjE5ZWZjYTYwMjJiYjkxYzY4N2VhY2YxNTAwNzQzYmI3N2E3OTEyZjc3ZWNkNzYiLCJoYXNoX21ldGEiOiI1OTkyZDU3MjNiNmJmODRiOGZiY2M1ZmRiMDAzNWUwZDAxMDYwMTkxNWJiYmVmMDkwYjE2NzdmYjZmZjIzODdmIiwic2Vxbm8iOjE0NzQ4NzV9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZGFpbHlicmFpbi5mciIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMxIn0sImN0aW1lIjoxNTA2Njc1MjQ4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjIwYWIwZTZkN2UzYzZiYTk4MjBjOTE0NGQ1ZjZhZWM2NDJkZDI2OGJlZTc5NjM1NGZkMWJmYjFlZWViY2JlMWQiLCJzZXFubyI6OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAvYc9thROC2RZMGTt5wLfFuoPsk5e7TFV7J5Caa+6kI1+F81safkCDqO0FI9d3mZCVqeooJJaS4fxqJJzKRRgJqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgv3Bc6vd7Uo0rFsHvj0h3jhAE+DHp4WLbTCmbSKAhAqqjdGFnzQICp3ZlcnNpb24B
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/dailybrain
+View my publicly-auditable identity here: https://keybase.io/vspiewak
 
 ==================================================================
